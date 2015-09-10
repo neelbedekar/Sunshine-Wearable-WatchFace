@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="digital_text_size">35dp</dimen>
+    <dimen name="date_size">15dp</dimen>
+    <dimen name="temp_size">25dp</dimen>
+    <dimen name="digital_x_offset">40dp</dimen>
+    <dimen name="digital_y_offset">70dp</dimen>
+    <dimen name="date_y_offset">95dp</dimen>
+    <dimen name="date_x_offset">32dp</dimen>
+    <dimen name="image_x_offset">45dp</dimen>
+    <dimen name="image_y_offset">115dp</dimen>
+    <dimen name="high_x_offset">105dp</dimen>
+    <dimen name="low_x_offset">145dp</dimen>
+    <dimen name="temp_y_offset">160dp</dimen>
+</resources>
